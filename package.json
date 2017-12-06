@@ -1,5 +1,5 @@
 {
-  "name": "Minimal React Starter",
+  "name": "minimal-react-starter",
   "version": "1.0.0",
   "description": "Minimal react starter with webpack dev server.",
   "main": "index.js",
