@@ -1,13 +1,10 @@
 {
-  "name": "tree-vis",
+  "name": "Minimal React Starter",
   "version": "1.0.0",
-  "description": "An easy way to render trees",
+  "description": "Minimal react starter with webpack dev server.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server -w ",
-    "start-server": "nodemon server",
-    "build-client": "webpack",
-    "seed": "node seed.js"
+    "start": "webpack-dev-server -w "
   },
   "dependencies": {
     "react": "^16.2.0",
